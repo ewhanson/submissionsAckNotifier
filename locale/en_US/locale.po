@@ -1,0 +1,5 @@
+msgid "plugins.generic.submissionsAckNotifier.displayName"
+msgstr "Submissions Acknowledgement Notifier"
+
+msgid "plugins.generic.submissionsAckNotifier.description"
+msgstr "BCCs journal manager on submission acknowledgement email"
